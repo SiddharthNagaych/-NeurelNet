@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    font-size: 16px;
+  }
+  
+  body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+  }
+  
+  .dark {
+    background-color: #1a202c;
+    color: #f7fafc;
+  }
